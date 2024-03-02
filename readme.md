@@ -1,6 +1,8 @@
 # Wordle PPY
 
 Wordle PPY es una versión simplificada del popular juego en línea "Wordle", donde los jugadores deben adivinar una palabra de cinco letras. Este proyecto es un juego basado en web desarrollado usando HTML, CSS y JavaScript.
+Es un juego de adivinanzas de palabras similar al juego Wordle. El objetivo es adivinar una palabra de 5 letras en un número limitado de intentos.
+
 
 ## Cómo Jugar
 
@@ -20,9 +22,6 @@ Wordle PPY es una versión simplificada del popular juego en línea "Wordle", do
 - Evita que el usuario adivine la misma palabra varias veces.
 - Muestra la palabra correcta cuando el juego termina.
 
-# Wordle PPY
-
-Este es un juego de adivinanzas de palabras similar al juego Wordle. El objetivo es adivinar una palabra de 5 letras en un número limitado de intentos.
 
 ## Funcionalidades
 
